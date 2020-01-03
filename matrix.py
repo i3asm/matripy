@@ -168,7 +168,7 @@ def main():
             if (control==7):
                 findDeterminant(mats)
     except ValueError:
-        print("value error, retry again")
+        print("value error, try again")
         main()
     except:
         main()
