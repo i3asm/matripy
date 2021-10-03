@@ -2,4 +2,5 @@
 
 # matripy
 
-this is supposed to be a python library to deal with matricies, I made it for fun and I din't think this is what python libraries looks like :)
+this is supposed to be a Python library to deal with matricies.
+I made it for fun when I started learning Python and I don't think this is what python libraries looks like :)
